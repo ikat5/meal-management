@@ -36,7 +36,7 @@ export default function RegisterPage() {
   return (
     <main className="flex min-h-screen items-center justify-center p-4">
       <div className="card w-full max-w-md">
-        <h1 className="page-title text-center">L-Split</h1>
+        <h1 className="page-title text-center">Meal Management</h1>
         <p className="mt-1 text-sm text-gray-500">Create your account</p>
 
         <form onSubmit={handleSubmit} className="mt-6 space-y-4">

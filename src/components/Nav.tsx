@@ -21,9 +21,9 @@ function Wordmark() {
   return (
     <Link href="/dashboard" className="flex items-center gap-2 px-2">
       <span className="flex h-7 w-7 items-center justify-center rounded-md bg-brand-600 font-mono text-sm font-semibold text-white">
-        L
+        M
       </span>
-      <span className="text-sm font-semibold tracking-tight text-ink">L-Split</span>
+      <span className="text-sm font-semibold tracking-tight text-ink">Meal Management</span>
     </Link>
   );
 }

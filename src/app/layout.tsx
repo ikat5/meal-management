@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "L-Split — shared meal & expense manager",
+  title: "Meal Management — shared meal & expense manager",
   description:
     "Manage shared meals, market duties, expenses and monthly billing for your mess or shared household.",
 };

@@ -1,7 +1,7 @@
 import type { Config } from "tailwindcss";
 
 /**
- * L-SPLIT DESIGN TOKENS
+ * MEAL MANAGEMENT DESIGN TOKENS
  * ──────────────────────
  * A quiet, ledger-like SaaS palette: cool near-white canvas, white
  * surfaces, hairline borders, near-black ink — and ONE accent, a deep
